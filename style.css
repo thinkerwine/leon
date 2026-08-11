@@ -1,3 +1,7 @@
+body {
+    color: darkcyan;
+    text-align: center;
+}
 .grenze-gotisch-leon {
   font-family: "Grenze Gotisch", serif;
   font-optical-sizing: auto;
