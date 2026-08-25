@@ -1,6 +1,7 @@
 body {
-    color: darkcyan;
+    color: rgb(50, 87, 255);
     text-align: center;
+    background-color: rgb(10, 9, 12);
 }
 .grenze-gotisch-leon {
   font-family: "Grenze Gotisch", serif;
@@ -9,8 +10,8 @@ body {
   font-style: normal;
 }
 a:link {
- color: darkmagenta;
+ color: rgb(21, 0, 139);
 }
 a:visited {
- color: blueviolet;
+ color: rgb(138, 222, 236);
 }
