@@ -2,6 +2,11 @@ body {
     color: rgb(50, 87, 255);
     text-align: center;
     background-color: rgb(10, 9, 12);
+    background-image: url(https://tenor.com/pt-BR/view/gif-girl-anime-kiss-meow-gif-6705663810348500090);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .grenze-gotisch-leon {
   font-family: "Grenze Gotisch", serif;
