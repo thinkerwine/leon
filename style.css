@@ -21,5 +21,9 @@ a:visited {
  color: rgb(138, 222, 236);
 }
 .joia {
-  size: 10px;
+  size: 5px;
+}
+header {
+  display: flex;
+  gap: 5px;
 }
