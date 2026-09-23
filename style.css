@@ -55,7 +55,9 @@ h1 {
   margin-left: 20px;
 }
 li {
+  background-color: rgb(27, 28, 44);
   font-size: 20px;
+  margin: 20px;
   margin-left: 200px;
   margin-right: 200px;
 }
