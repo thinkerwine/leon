@@ -40,6 +40,7 @@ h1 {
 }
 .bloco1 {
   display: flex;
+  margin-left: 50px;
 }
 .apre {
   text-align: right;
