@@ -7,6 +7,7 @@ body {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    margin: 50px;
 }
 .grenze-gotisch-leon {
   font-family: "Grenze Gotisch", serif;
