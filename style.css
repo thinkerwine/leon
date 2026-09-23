@@ -34,3 +34,6 @@ header {
   text-align: center;
   background-color: rgb(27, 28, 44);
 }
+h1 {
+  margin-left: 20 px;
+}
