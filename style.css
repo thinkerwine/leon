@@ -54,10 +54,9 @@ h1 {
 .sobre {
   margin-left: 20px;
 }
-li {
+.ig {
   background-color: rgb(27, 28, 44);
   font-size: 20px;
-  margin: 20px;
   margin-left: 200px;
   margin-right: 200px;
 }
