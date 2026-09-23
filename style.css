@@ -37,6 +37,10 @@ header {
 h1 {
   margin-left: 20 px;
 }
+.bloco1 {
+  display: flex;
+}
 .apre {
-
+  text-align: right;
+  margin-right: 20px;
 }
