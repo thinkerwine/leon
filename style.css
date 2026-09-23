@@ -39,8 +39,10 @@ h1 {
   margin-left: 20px;
 }
 .bloco1 {
+  background-color: rgb(27, 28, 44);
   display: flex;
   margin-left: 50px;
+  margin-right: 50px;
 }
 .apre {
   text-align: right;
