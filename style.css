@@ -71,3 +71,28 @@ button {
   background-color: rgb(205, 140, 255);
   color: #400246;
 }
+@keyframes spin {
+    100% {
+      transform:rotate(360deg);
+    }
+  }
+  
+  .recordPlayer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+  .vinyl {
+    height: 150px;
+    margin-left: 55px;
+    padding: 10px;
+    animation: spin 1.88s linear infinite;
+    position: absolute;
+  }
+  .vinylCover {
+    height: 150px;
+    position: relative;
+    z-index: 1;
+    margin-right: 55px;
+  }
